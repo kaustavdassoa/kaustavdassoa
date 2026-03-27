@@ -1,11 +1,16 @@
 # 💫 About Me:
-🔭 **I’m currently working on**: Agentic AI development and pushing the boundaries of automation. By day, I'm an Engineering Manager overseeing a multi-million dollar portfolio, modernizing everything from legacy enterprise systems to building cutting-edge multi-agent applications.<br>
+
+•  🔭 **I’m currently working on**: Agentic AI development and pushing the boundaries of automation. By day, I'm an Engineering Manager overseeing a multi-million dollar portfolio, modernizing everything from legacy enterprise systems to building cutting-edge multi-agent applications.<br>
 
 •  👯 **I’m looking to collaborate on**: strategies for engineering management, enterprise modernization, and integrating AI into legacy ecosystems.<br>
 
-•  🤝 **I’m looking for help with**: discovering the best frameworks for transitioning massive monolithic architectures into AI-driven, scalable microservices.<br>•  🌱 I’m currently learning: organizational design for AI-first engineering teams and advanced cloud-native architectures.<br>
+•  🤝 **I’m looking for help with**: discovering the best frameworks for transitioning massive monolithic architectures into AI-driven, scalable microservices.<br>
 
-•  💬 **Ask me about**: engineering leadership at scale, managing multi-million dollar tech portfolios, Java/AWS architecture, and team building.<br>•  ⚡ Fun fact: With over a decade of experience in enterprise software, I’ve seen it all—from ancient legacy systems to cutting-edge AI—and I write technical blogs to help others navigate the journey.<br>
+•  🌱 **I’m currently learning**: organizational design for AI-first engineering teams and advanced cloud-native architectures.<br>
+
+•  💬 **Ask me about**: engineering leadership at scale, managing multi-million dollar tech portfolios, Java/AWS architecture, and team building.<br>
+
+•  ⚡ **Fun fact**: With over a decade of experience in enterprise software, I’ve seen it all—from ancient legacy systems to cutting-edge AI—and I write technical blogs to help others navigate the journey.<br>
 
 
 # 💻 Tech Stack:
