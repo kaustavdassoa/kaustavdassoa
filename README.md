@@ -25,3 +25,17 @@
 
 # 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kaustavdassoa&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kaustavdassoa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaustavdassoa&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <a href="https://github.com/kaustavdassoa">
+    <img src="https://komarev.com/ghpvc/?username=kaustavdassoa&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
