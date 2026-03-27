@@ -25,9 +25,3 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustavdassoa&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=27" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustavdassoa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustavdassoa&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-</div>
