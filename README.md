@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-•  🔭 **I’m currently working on**: Agentic AI development and pushing the boundaries of automation. By day, I'm an Engineering Manager overseeing a multi-million dollar portfolio, modernizing everything from legacy enterprise systems to building cutting-edge multi-agent applications.<br>
+•  🔭 **I’m currently working on**: Agentic AI development and pushing the boundaries of automation. By day, I'm an Engineering Manager overseeing a multi-million dollar portfolio, modernizing everything from legacy enterprise systems to building cutting-edge multi-agent applications.By night: Hands-on developer and AI tinkerer, pushing the boundaries of Agentic AI and automation. I believe in leading from the front. I spend my off-hours writing code, experimenting with new frameworks, and building prototypes to ensure my technical depth stays relevant and my hands remain firmly on the keyboard.<br>
 
 •  👯 **I’m looking to collaborate on**: strategies for engineering management, enterprise modernization, and integrating AI into legacy ecosystems.<br>
 
